@@ -1,4 +1,4 @@
-drop database laibrary;
+
 create database laibrary;
 use laibrary;
 CREATE TABLE Staff(
